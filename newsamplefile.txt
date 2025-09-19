@@ -1,0 +1,1 @@
+My name is John. This is some sample text that needs to be writtten to the opened file in write mode, I am running htis file again.. 
