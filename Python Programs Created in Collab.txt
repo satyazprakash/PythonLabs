@@ -1,0 +1,7 @@
+Python Programs:
+
+Array Programs:
+	1. Find Max & Min value in list.
+	2. Calculate sum of elements present in the list.
+	3. Print all the variables present in the list.
+
